@@ -1,2 +1,3 @@
-gem "sinatra"
-gem "thin"
+require 'capybara'
+require 'capybara/rspec'
+require 'rspec'
